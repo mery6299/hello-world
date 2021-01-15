@@ -1,3 +1,0 @@
-# hello-world
-This is a short description :)
-I'm just trying to make sense of what I am doing there...
